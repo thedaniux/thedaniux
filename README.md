@@ -1,16 +1,43 @@
-### Hi there 👋
+***
+# Hola, mi nick es thedaniux
+## Me considero Investigador de Seguridad Web, soy de **Ecuador**
+### Estoy en este bootcamp para mejorar mis habilidades de Hacking en el mundo real.
 
-<!--
-**thedaniux/thedaniux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Más  información
 
-Here are some ideas to get you started:
+```
+{
+  "nombre": "Danny",
+  "apellido": "Ramirez",
+  "edad": 28
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Algunas de mis habilidades**
+
+1. Web Application Pentesting 
+2. Bug Bounty 
+3. Manual Application Pentesting
+4. Mobile App Pentesting
+5. Python and Bash Scripting
+6. Active Directoy Pentesting
+7. Linux
+8. Wordpress and SEO
+
+**Plataformas donde practico Bug Bounty**
+|Plataforma| Link |
+| -------   | ------------|
+| Hackeorne | https://hackerone.com/thedaniux |
+| Bugcrowd  | https://www.bugcrowd.com/thedaniux
+| Bug Bounty Hunter (zseano ) |  https://bbhunter.com/ecuabug |
+
+**Plataformas CTF**
+|Platform| Link | Description | 
+| -------   | ------------| ------- | 
+| Hackthebox | https://app.hackthebox.com/profile/278163 | Rank Hacker | 
+
+**Mis redes sociales**
+- Linkdin https://www.linkedin.com/in/thedaniux/
+- Twitter https://twitter.com/thedaniuxx
+
+***
