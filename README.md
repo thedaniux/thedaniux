@@ -1,7 +1,7 @@
 ***
 # Hola, mi nick es thedaniux
 ## Me considero Investigador de Seguridad Web, soy de **Ecuador**
-### Estoy en este bootcamp para mejorar mis habilidades de Hacking en el mundo real.
+### Estoy en este bootcamp Full Stack Developer de Guillermo Rodas para mejorar mis habilidades de Hacking en el mundo real.
 
 ### Más  información
 
