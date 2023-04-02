@@ -1,7 +1,7 @@
 ***
 # Hola, mi nick es thedaniux
 ## Me considero Investigador de Seguridad Web, soy de **Ecuador**
-### Estoy en este bootcamp Full Stack Developer de Guillermo Rodas para mejorar mis habilidades de Hacking en el mundo real.
+### Estoy en este bootcamp para mejorar mis habilidades de Hacking en el mundo real.
 
 ### Más  información
 
@@ -41,3 +41,18 @@
 - Twitter https://twitter.com/thedaniuxx
 
 ***
+
+**Algunos de los comandos que más utilizo en mi servidor VPS son los siguientes:**
+
+ |Comando| Uso o Descripción |
+| -------   | ------------|
+|ls         | Lista directorios o archivos.                |
+|cd         | Cambiar de directorio                        |
+|tmux       | Usar tmux para crear sesiones.               |
+|cat        | Ver contenido de archivos                    |
+|clear      | Limpiar Terminal                             |
+|python3    |Para ejecutar scripts con python3             |
+|nano       | Editar archivos                              |
+|sudo       | para ejecutar un comando como super user     |
+|ll         | listar directorios con informacion adicional |
+
