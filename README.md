@@ -62,8 +62,7 @@
 |Alias    | Uso o Descripción |
 | -------   | ------------- |
 |ffuf_recursive | Me permite hacer fuzzing hacia una lista de websites |
-
-|ffuf_view      | Me permite visualizar un archivo csv filtrando algunas columnas |
+|ffuf_view  | Me permite visualizar un archivo csv filtrando algunas columnas |
 
 
 
