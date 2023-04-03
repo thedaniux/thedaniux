@@ -45,7 +45,7 @@
 **Algunos de los comandos que más utilizo en mi servidor VPS son los siguientes:**
 
 |Comando    | Uso o Descripción |
-| --------- | ------------ -----|
+| -------   | ------------- |
 |ls         | Lista directorios o archivos.                |
 |cd         | Cambiar de directorio                        |
 |tmux       | Usar tmux para crear sesiones.               |
