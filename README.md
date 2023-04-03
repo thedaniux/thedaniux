@@ -44,8 +44,9 @@
 
 **Algunos de los comandos que más utilizo en mi servidor VPS son los siguientes:**
 
- |Comando| Uso o Descripción |
-| -------   | ------------|
+
+|Comando    | Uso o Descripción                            |
+| -------   | ------------ ------------------------------- |
 |ls         | Lista directorios o archivos.                |
 |cd         | Cambiar de directorio                        |
 |tmux       | Usar tmux para crear sesiones.               |
@@ -55,4 +56,14 @@
 |nano       | Editar archivos                              |
 |sudo       | para ejecutar un comando como super user     |
 |ll         | listar directorios con informacion adicional |
+
+**Algunos alias que suelo usar**
+
+|Alias    | Uso o Descripción |
+| -------   | ------------- |
+|ffuf_recursive | Me permite hacer fuzzing hacia una lista de websites |
+
+|ffuf_view      | Me permite visualizar un archivo csv filtrando algunas columnas |
+
+
 
